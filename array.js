@@ -16,3 +16,5 @@ console.log('The length of arr1 array:', arr1.length);
 for(var i = 0; i <=arr1.length-1; i++){
     console.log(`element at index ${i}`,arr1[i]);
 }
+
+// Array can store homogeneous(data with same datatype ) as well as heterogenous(data with different data type) data
